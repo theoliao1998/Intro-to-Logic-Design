@@ -1,2 +1,2 @@
 # Intro-to-Logic-Design
-Summer 2018 in UM - SJTU JI
+VE270 Summer 2018 in UM - SJTU JI
